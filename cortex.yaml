@@ -1,0 +1,17 @@
+openapi: 3.0.1
+info:
+  title: monster-solar
+  x-cortex-tag: monster-solar
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: fiend
+    challenge_rating: 10
+    legendary: true
+    armor_class: 16
+    hit_points: 202
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-solar
+      alias: github-token-test
